@@ -1,6 +1,8 @@
 # Notes
 An android application which will help you save notes for as long as you want. 
 <br />
+<br />
+<br />
 ![alt text](https://github.com/swayamkaul/Notes/blob/master/screenShots/Mainactivity.png)
 <br />
 <br />
