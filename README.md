@@ -12,11 +12,11 @@ A new note can be added by clicking on the "Add note" tab in the menu inflater.
 "creators" tab in the menu inflater opens the developers window.
 
 ## Data Management
-ArrayList Datastructure has been used in this app which is used to store the content of the notes. The ArrayList is then fixed into an arrayAdapter which is then set to the listView for displaying the content.
+ArrayList Datastructure has been used in this app which is used to store the content of the notes. The ArrayList is then put into an arrayAdapter which is then set to the listView for displaying the content.
 For permanent storage we have used "SharedPreferences" which helps to keep the data stored even if the app is shut down.  
 
 ## Developers
-Moulik Bhardwaj 185506
-Swayam Kaul 185512
+Moulik Bhardwaj 185506 
+Swayam Kaul 185512 
 Rishabh Dhenkawat 185519
 
