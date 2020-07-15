@@ -1,6 +1,9 @@
 # Notes
 An android application which will help you save notes for as long as you want.
 
+## How to use
+You may transfer the "NotesApp.apk" file to your android mobile mobile phone and install it.
+
 ## Layout 
 The Layout of the app consists of a ListView which displays the saved note. The notes can be opened by tapping on that particular note item of the list view. 
 A note can be deleted by long pressing the item of the list view.
