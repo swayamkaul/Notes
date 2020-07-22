@@ -32,7 +32,9 @@ A new note can be added by clicking on the "Add note" tab in the menu inflater.
 <br />
 
 ## Data Management
-ArrayList Datastructure has been used in this app which is used to store the content of the notes. The ArrayList is then put into an arrayAdapter which is then set to the listView for displaying the content.
+ArrayList Datastructure has been used in this app which is used to store the content of the notes. The ArrayList is then put into an arrayAdapter which is then set to the listView for displaying the content.<br/>
+We have also used hashsets for storing notes into "SharedPreferences". 
+
 <br />
 ![alt text](https://github.com/swayamkaul/Notes/blob/master/screenShots/code.png)
 <br />
